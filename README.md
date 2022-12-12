@@ -6,7 +6,7 @@
 Membuat aplikasi MyGram yang dimana aplikasi ini digunakan untuk menyimpan foto maupun membuat comment untuk foto orang lain. Selain itu terdapat unit testing API juga didalamnnya.
 
 ## Link App
-App Upstream at: [https://finalproject2-production.up.railway.app/](https://finalproject2-production.up.railway.app/)
+App Upstream at: https://finalproject2-4-production-2ab6.up.railway.app/
 
 ## Group 9
 
