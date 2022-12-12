@@ -14,11 +14,11 @@
     "dialect": "postgres"
   },
   "production": {
-    "host": "containers-us-west-70.railway.app",
+    "host": "containers-us-west-112.railway.app",
     "username": "postgres",
-    "password": "NQXEenvF0aePyxurSnTw",
+    "password": "9aADHm6sDSz76mTp6aoQ",
     "database": "railway",
-    "port": "5719",
+    "port": "6523",
     "dialect": "postgres"
   }
 }
